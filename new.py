@@ -1,1 +1,1 @@
-print(Number)
+print("Enter Name :")
